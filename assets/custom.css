@@ -1,0 +1,63 @@
+.row{
+  margin: 5px 1px 5px 5px;
+  flex-wrap: nowrap;
+}
+.previous-next-container{
+  margin: 5px 55px 5px 25px;
+}
+.nav-item{
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+
+}
+
+a.nav-link:hover{
+    background-color:#bd5916;
+}
+ul.nav-link a:hover{
+    text-decoration: none;
+}
+
+.dropdown-item{
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+
+}
+a.dropdown-item:hover{
+    background-color:#bd5916;
+}
+body{
+    background-color: rgb(208, 208, 208)
+}
+a, u, nav {
+    text-decoration: none;
+}
+.dash-table{
+    flex: 0 0 auto;
+    left: 0;
+    position: sticky;
+    z-index: 0;
+}
+#season-dropdown{
+    width: 10%;
+}
+#stats-dropdown, #stats-dropdown-x, #stats-dropdown-y{
+    width: 30%
+}
+
+.mini_container {
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin: 10px;
+  padding: 15px;
+  position: relative;
+  box-shadow: 2px 2px 2px lightgrey;
+}

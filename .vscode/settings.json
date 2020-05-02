@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintCategorySeverity.convention": "Error",
+    "python.linting.pylintCategorySeverity.warning": "Error"
+}

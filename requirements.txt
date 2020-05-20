@@ -177,7 +177,7 @@ grpcio==1.16.1
 h5py==2.9.0
 HeapDict==1.0.1
 html5lib==1.0.1
-httplib2==0.14.0
+httplib2==0.18.0
 hyperas==0.4.1
 hyperopt==0.1.2
 hypothesis==4.54.2

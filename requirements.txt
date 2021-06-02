@@ -380,7 +380,7 @@ traitlets==4.3.3
 typing==3.7.4
 unicodecsv==0.14.1
 uritemplate==3.0.0
-urllib3==1.25.8
+urllib3==1.26.5
 uszipcode==0.2.4
 wcwidth==0.1.9
 webencodings==0.5.1

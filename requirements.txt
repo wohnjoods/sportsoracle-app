@@ -95,7 +95,7 @@ azure-storage-blob==1.5.0
 azure-storage-common==1.4.2
 azure-storage-file==1.4.0
 azure-storage-queue==1.4.0
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.1.0
 backports.functools-lru-cache==1.6.1
 backports.os==0.1.1

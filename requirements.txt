@@ -144,7 +144,7 @@ DateTime==4.3
 decorator==4.4.2
 defusedxml==0.6.0
 descartes==1.1.0
-distributed==2.9.3
+distributed==2021.10.0
 docutils==0.16
 dtale==1.7.5
 eli5==0.9.0
